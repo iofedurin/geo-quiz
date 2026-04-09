@@ -1,0 +1,65 @@
+{
+  "home": {
+    "title": "GeoQuiz",
+    "subtitle": "Geography Quiz Trainer",
+    "start": "Start Quiz",
+    "selectMode": "Quiz Mode",
+    "selectRegion": "Region",
+    "selectView": "Map View"
+  },
+  "modes": {
+    "findByName": "Find by Country Name",
+    "findByCapital": "Find by Capital",
+    "findByFlag": "Find by Flag",
+    "nameCountry": "Name the Country",
+    "pickFlag": "Pick the Flag"
+  },
+  "regions": {
+    "world": "World",
+    "africa": "Africa",
+    "americas": "Americas",
+    "asia": "Asia",
+    "europe": "Europe",
+    "oceania": "Oceania"
+  },
+  "views": {
+    "flat": "Flat Map",
+    "globe": "Globe"
+  },
+  "quiz": {
+    "findByName": "Find <strong>{{ country }}</strong> on the map",
+    "findByCapital": "Find the country whose capital is <strong>{{ capital }}</strong>",
+    "findByFlag": "Find the country with this flag on the map",
+    "nameCountry": "What country is highlighted?",
+    "pickFlag": "Which flag belongs to <strong>{{ country }}</strong>?",
+    "correct": "Correct!",
+    "incorrect": "Incorrect",
+    "youPicked": "You picked",
+    "correctAnswer": "Correct answer",
+    "skip": "Skip",
+    "giveUp": "I don't know",
+    "next": "Next",
+    "finish": "Finish",
+    "score": "{{ score }} / {{ total }}",
+    "progress": "{{ current }} of {{ total }}"
+  },
+  "result": {
+    "title": "Quiz Complete!",
+    "score": "Your score: {{ score }} / {{ total }}",
+    "percentage": "{{ percent }}%",
+    "excellent": "Excellent!",
+    "good": "Good job!",
+    "fair": "Keep practising!",
+    "playAgain": "Play Again",
+    "changeSettings": "Change Settings"
+  },
+  "nav": {
+    "language": "Language",
+    "home": "Home"
+  },
+  "country": {
+    "capital": "Capital",
+    "region": "Region",
+    "subregion": "Subregion"
+  }
+}

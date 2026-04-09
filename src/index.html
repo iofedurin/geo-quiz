@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <title>GeoQuiz</title>
+    <base href="/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <style>
+      body { margin: 0; background: #1a237e; display: flex; align-items: center; justify-content: center; height: 100vh; font-family: sans-serif; }
+      .init-loader { text-align: center; color: rgba(255,255,255,0.85); }
+      .init-spinner { width: 48px; height: 48px; border: 5px solid rgba(255,255,255,0.3); border-top-color: white; border-radius: 50%; margin: 0 auto 1rem; animation: spin 0.8s linear infinite; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+    </style>
+  </head>
+  <body>
+    <app-root>
+      <div class="init-loader">
+        <div class="init-spinner"></div>
+        <p>Loading…</p>
+      </div>
+    </app-root>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+{
+  "home": {
+    "title": "GeoQuiz",
+    "subtitle": "Тренажёр по географии",
+    "start": "Начать",
+    "selectMode": "Режим",
+    "selectRegion": "Регион",
+    "selectView": "Вид карты"
+  },
+  "modes": {
+    "findByName": "Найти страну",
+    "findByCapital": "Найти по столице",
+    "findByFlag": "Найти по флагу",
+    "nameCountry": "Назвать страну",
+    "pickFlag": "Выбрать флаг"
+  },
+  "regions": {
+    "world": "Весь мир",
+    "africa": "Африка",
+    "americas": "Америки",
+    "asia": "Азия",
+    "europe": "Европа",
+    "oceania": "Океания"
+  },
+  "views": {
+    "flat": "Плоская карта",
+    "globe": "Глобус"
+  },
+  "quiz": {
+    "findByName": "Найди <strong>{{ country }}</strong> на карте",
+    "findByCapital": "Найди страну, столица которой — <strong>{{ capital }}</strong>",
+    "findByFlag": "Найди страну с этим флагом на карте",
+    "nameCountry": "Что за страна выделена?",
+    "pickFlag": "Какой флаг принадлежит <strong>{{ country }}</strong>?",
+    "correct": "Верно!",
+    "incorrect": "Неверно",
+    "youPicked": "Вы выбрали",
+    "correctAnswer": "Правильный ответ",
+    "skip": "Пропустить",
+    "giveUp": "Не знаю",
+    "next": "Далее",
+    "finish": "Завершить",
+    "score": "{{ score }} / {{ total }}",
+    "progress": "{{ current }} из {{ total }}"
+  },
+  "result": {
+    "title": "Квиз завершён!",
+    "score": "Результат: {{ score }} / {{ total }}",
+    "percentage": "{{ percent }}%",
+    "excellent": "Отлично!",
+    "good": "Хорошо!",
+    "fair": "Продолжай тренироваться!",
+    "playAgain": "Играть снова",
+    "changeSettings": "Изменить настройки"
+  },
+  "nav": {
+    "language": "Язык",
+    "home": "Главная"
+  },
+  "country": {
+    "capital": "Столица",
+    "region": "Регион",
+    "subregion": "Подрегион"
+  }
+}

@@ -1,0 +1,4014 @@
+[
+  {
+    "id": "716",
+    "cca2": "ZW",
+    "cca3": "ZWE",
+    "name": {
+      "en": "Zimbabwe",
+      "ru": "Зимбабве"
+    },
+    "capital": {
+      "en": "Harare",
+      "ru": "Харare"
+    },
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flagSvg": "https://flagcdn.com/zw.svg",
+    "flagEmoji": "🇿🇼"
+  },
+  {
+    "id": "894",
+    "cca2": "ZM",
+    "cca3": "ZMB",
+    "name": {
+      "en": "Zambia",
+      "ru": "Замбия"
+    },
+    "capital": {
+      "en": "Lusaka",
+      "ru": "Лусака"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/zm.svg",
+    "flagEmoji": "🇿🇲"
+  },
+  {
+    "id": "887",
+    "cca2": "YE",
+    "cca3": "YEM",
+    "name": {
+      "en": "Yemen",
+      "ru": "Йемен"
+    },
+    "capital": {
+      "en": "Sana'a",
+      "ru": "Сана"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/ye.svg",
+    "flagEmoji": "🇾🇪"
+  },
+  {
+    "id": "704",
+    "cca2": "VN",
+    "cca3": "VNM",
+    "name": {
+      "en": "Vietnam",
+      "ru": "Вьетнам"
+    },
+    "capital": {
+      "en": "Hanoi",
+      "ru": "Ханой"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/vn.svg",
+    "flagEmoji": "🇻🇳"
+  },
+  {
+    "id": "862",
+    "cca2": "VE",
+    "cca3": "VEN",
+    "name": {
+      "en": "Venezuela",
+      "ru": "Венесуэла"
+    },
+    "capital": {
+      "en": "Caracas",
+      "ru": "Каракас"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/ve.svg",
+    "flagEmoji": "🇻🇪"
+  },
+  {
+    "id": "336",
+    "cca2": "VA",
+    "cca3": "VAT",
+    "name": {
+      "en": "Vatican City",
+      "ru": "Ватикан"
+    },
+    "capital": {
+      "en": "Vatican City",
+      "ru": "Ватикан"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/va.svg",
+    "flagEmoji": "🇻🇦"
+  },
+  {
+    "id": "548",
+    "cca2": "VU",
+    "cca3": "VUT",
+    "name": {
+      "en": "Vanuatu",
+      "ru": "Вануату"
+    },
+    "capital": {
+      "en": "Port Vila",
+      "ru": "Порт-Вила"
+    },
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flagSvg": "https://flagcdn.com/vu.svg",
+    "flagEmoji": "🇻🇺"
+  },
+  {
+    "id": "860",
+    "cca2": "UZ",
+    "cca3": "UZB",
+    "name": {
+      "en": "Uzbekistan",
+      "ru": "Узбекистан"
+    },
+    "capital": {
+      "en": "Tashkent",
+      "ru": "Ташкент"
+    },
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flagSvg": "https://flagcdn.com/uz.svg",
+    "flagEmoji": "🇺🇿"
+  },
+  {
+    "id": "858",
+    "cca2": "UY",
+    "cca3": "URY",
+    "name": {
+      "en": "Uruguay",
+      "ru": "Уругвай"
+    },
+    "capital": {
+      "en": "Montevideo",
+      "ru": "Монтевидео"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/uy.svg",
+    "flagEmoji": "🇺🇾"
+  },
+  {
+    "id": "583",
+    "cca2": "FM",
+    "cca3": "FSM",
+    "name": {
+      "en": "Micronesia",
+      "ru": "Федеративные Штаты Микронезии"
+    },
+    "capital": {
+      "en": "Palikir",
+      "ru": "Паликир"
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flagSvg": "https://flagcdn.com/fm.svg",
+    "flagEmoji": "🇫🇲"
+  },
+  {
+    "id": "584",
+    "cca2": "MH",
+    "cca3": "MHL",
+    "name": {
+      "en": "Marshall Islands",
+      "ru": "Маршалловы Острова"
+    },
+    "capital": {
+      "en": "Majuro",
+      "ru": "Маджуро"
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flagSvg": "https://flagcdn.com/mh.svg",
+    "flagEmoji": "🇲🇭"
+  },
+  {
+    "id": "580",
+    "cca2": "MP",
+    "cca3": "MNP",
+    "name": {
+      "en": "Northern Mariana Islands",
+      "ru": "Северные Марианские острова"
+    },
+    "capital": {
+      "en": "Saipan",
+      "ru": "Saipan"
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flagSvg": "https://flagcdn.com/mp.svg",
+    "flagEmoji": "🇲🇵"
+  },
+  {
+    "id": "850",
+    "cca2": "VI",
+    "cca3": "VIR",
+    "name": {
+      "en": "United States Virgin Islands",
+      "ru": "Виргинские Острова"
+    },
+    "capital": {
+      "en": "Charlotte Amalie",
+      "ru": "Charlotte Amalie"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/vi.svg",
+    "flagEmoji": "🇻🇮"
+  },
+  {
+    "id": "316",
+    "cca2": "GU",
+    "cca3": "GUM",
+    "name": {
+      "en": "Guam",
+      "ru": "Гуам"
+    },
+    "capital": {
+      "en": "Hagåtña",
+      "ru": "Hagåtña"
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flagSvg": "https://flagcdn.com/gu.svg",
+    "flagEmoji": "🇬🇺"
+  },
+  {
+    "id": "016",
+    "cca2": "AS",
+    "cca3": "ASM",
+    "name": {
+      "en": "American Samoa",
+      "ru": "Американское Самоа"
+    },
+    "capital": {
+      "en": "Pago Pago",
+      "ru": "Pago Pago"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/as.svg",
+    "flagEmoji": "🇦🇸"
+  },
+  {
+    "id": "630",
+    "cca2": "PR",
+    "cca3": "PRI",
+    "name": {
+      "en": "Puerto Rico",
+      "ru": "Пуэрто-Рико"
+    },
+    "capital": {
+      "en": "San Juan",
+      "ru": "San Juan"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/pr.svg",
+    "flagEmoji": "🇵🇷"
+  },
+  {
+    "id": "840",
+    "cca2": "US",
+    "cca3": "USA",
+    "name": {
+      "en": "United States",
+      "ru": "Соединённые Штаты Америки"
+    },
+    "capital": {
+      "en": "Washington, D.C.",
+      "ru": "Вашингтон"
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "flagSvg": "https://flagcdn.com/us.svg",
+    "flagEmoji": "🇺🇸"
+  },
+  {
+    "id": "239",
+    "cca2": "GS",
+    "cca3": "SGS",
+    "name": {
+      "en": "South Georgia",
+      "ru": "Южная Георгия и Южные Сандвичевы острова"
+    },
+    "capital": {
+      "en": "King Edward Point",
+      "ru": "King Edward Point"
+    },
+    "region": "Antarctic",
+    "subregion": "",
+    "flagSvg": "https://flagcdn.com/gs.svg",
+    "flagEmoji": "🇬🇸"
+  },
+  {
+    "id": "086",
+    "cca2": "IO",
+    "cca3": "IOT",
+    "name": {
+      "en": "British Indian Ocean Territory",
+      "ru": "Британская территория в Индийском океане"
+    },
+    "capital": {
+      "en": "Diego Garcia",
+      "ru": "Diego Garcia"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/io.svg",
+    "flagEmoji": "🇮🇴"
+  },
+  {
+    "id": "654",
+    "cca2": "SH",
+    "cca3": "SHN",
+    "name": {
+      "en": "Saint Helena, Ascension and Tristan da Cunha",
+      "ru": "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
+    },
+    "capital": {
+      "en": "Jamestown",
+      "ru": "Jamestown"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/sh.svg",
+    "flagEmoji": "🇸🇭"
+  },
+  {
+    "id": "612",
+    "cca2": "PN",
+    "cca3": "PCN",
+    "name": {
+      "en": "Pitcairn Islands",
+      "ru": "Острова Питкэрн"
+    },
+    "capital": {
+      "en": "Adamstown",
+      "ru": "Adamstown"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/pn.svg",
+    "flagEmoji": "🇵🇳"
+  },
+  {
+    "id": "660",
+    "cca2": "AI",
+    "cca3": "AIA",
+    "name": {
+      "en": "Anguilla",
+      "ru": "Ангилья"
+    },
+    "capital": {
+      "en": "The Valley",
+      "ru": "The Valley"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/ai.svg",
+    "flagEmoji": "🇦🇮"
+  },
+  {
+    "id": "238",
+    "cca2": "FK",
+    "cca3": "FLK",
+    "name": {
+      "en": "Falkland Islands",
+      "ru": "Фолклендские острова"
+    },
+    "capital": {
+      "en": "Stanley",
+      "ru": "Stanley"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/fk.svg",
+    "flagEmoji": "🇫🇰"
+  },
+  {
+    "id": "136",
+    "cca2": "KY",
+    "cca3": "CYM",
+    "name": {
+      "en": "Cayman Islands",
+      "ru": "Каймановы острова"
+    },
+    "capital": {
+      "en": "George Town",
+      "ru": "George Town"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/ky.svg",
+    "flagEmoji": "🇰🇾"
+  },
+  {
+    "id": "060",
+    "cca2": "BM",
+    "cca3": "BMU",
+    "name": {
+      "en": "Bermuda",
+      "ru": "Бермудские Острова"
+    },
+    "capital": {
+      "en": "Hamilton",
+      "ru": "Hamilton"
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "flagSvg": "https://flagcdn.com/bm.svg",
+    "flagEmoji": "🇧🇲"
+  },
+  {
+    "id": "092",
+    "cca2": "VG",
+    "cca3": "VGB",
+    "name": {
+      "en": "British Virgin Islands",
+      "ru": "Британские Виргинские острова"
+    },
+    "capital": {
+      "en": "Road Town",
+      "ru": "Road Town"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/vg.svg",
+    "flagEmoji": "🇻🇬"
+  },
+  {
+    "id": "796",
+    "cca2": "TC",
+    "cca3": "TCA",
+    "name": {
+      "en": "Turks and Caicos Islands",
+      "ru": "Теркс и Кайкос"
+    },
+    "capital": {
+      "en": "Cockburn Town",
+      "ru": "Cockburn Town"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/tc.svg",
+    "flagEmoji": "🇹🇨"
+  },
+  {
+    "id": "500",
+    "cca2": "MS",
+    "cca3": "MSR",
+    "name": {
+      "en": "Montserrat",
+      "ru": "Монтсеррат"
+    },
+    "capital": {
+      "en": "Plymouth",
+      "ru": "Plymouth"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/ms.svg",
+    "flagEmoji": "🇲🇸"
+  },
+  {
+    "id": "832",
+    "cca2": "JE",
+    "cca3": "JEY",
+    "name": {
+      "en": "Jersey",
+      "ru": "Джерси"
+    },
+    "capital": {
+      "en": "Saint Helier",
+      "ru": "Сент-Хельер"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/je.svg",
+    "flagEmoji": "🇯🇪"
+  },
+  {
+    "id": "831",
+    "cca2": "GG",
+    "cca3": "GGY",
+    "name": {
+      "en": "Guernsey",
+      "ru": "Гернси"
+    },
+    "capital": {
+      "en": "St. Peter Port",
+      "ru": "Сент-Питер-Порт"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/gg.svg",
+    "flagEmoji": "🇬🇬"
+  },
+  {
+    "id": "833",
+    "cca2": "IM",
+    "cca3": "IMN",
+    "name": {
+      "en": "Isle of Man",
+      "ru": "Остров Мэн"
+    },
+    "capital": {
+      "en": "Douglas",
+      "ru": "Дуглас"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/im.svg",
+    "flagEmoji": "🇮🇲"
+  },
+  {
+    "id": "826",
+    "cca2": "GB",
+    "cca3": "GBR",
+    "name": {
+      "en": "United Kingdom",
+      "ru": "Великобритания"
+    },
+    "capital": {
+      "en": "London",
+      "ru": "Лондон"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/gb.svg",
+    "flagEmoji": "🇬🇧"
+  },
+  {
+    "id": "784",
+    "cca2": "AE",
+    "cca3": "ARE",
+    "name": {
+      "en": "United Arab Emirates",
+      "ru": "Объединённые Арабские Эмираты"
+    },
+    "capital": {
+      "en": "Abu Dhabi",
+      "ru": "Абу-Даби"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/ae.svg",
+    "flagEmoji": "🇦🇪"
+  },
+  {
+    "id": "804",
+    "cca2": "UA",
+    "cca3": "UKR",
+    "name": {
+      "en": "Ukraine",
+      "ru": "Украина"
+    },
+    "capital": {
+      "en": "Kyiv",
+      "ru": "Киев"
+    },
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flagSvg": "https://flagcdn.com/ua.svg",
+    "flagEmoji": "🇺🇦"
+  },
+  {
+    "id": "800",
+    "cca2": "UG",
+    "cca3": "UGA",
+    "name": {
+      "en": "Uganda",
+      "ru": "Уганда"
+    },
+    "capital": {
+      "en": "Kampala",
+      "ru": "Кампала"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/ug.svg",
+    "flagEmoji": "🇺🇬"
+  },
+  {
+    "id": "795",
+    "cca2": "TM",
+    "cca3": "TKM",
+    "name": {
+      "en": "Turkmenistan",
+      "ru": "Туркмения"
+    },
+    "capital": {
+      "en": "Ashgabat",
+      "ru": "Ашхабад"
+    },
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flagSvg": "https://flagcdn.com/tm.svg",
+    "flagEmoji": "🇹🇲"
+  },
+  {
+    "id": "792",
+    "cca2": "TR",
+    "cca3": "TUR",
+    "name": {
+      "en": "Turkey",
+      "ru": "Турция"
+    },
+    "capital": {
+      "en": "Ankara",
+      "ru": "Анкара"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/tr.svg",
+    "flagEmoji": "🇹🇷"
+  },
+  {
+    "id": "788",
+    "cca2": "TN",
+    "cca3": "TUN",
+    "name": {
+      "en": "Tunisia",
+      "ru": "Тунис"
+    },
+    "capital": {
+      "en": "Tunis",
+      "ru": "Тунис"
+    },
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flagSvg": "https://flagcdn.com/tn.svg",
+    "flagEmoji": "🇹🇳"
+  },
+  {
+    "id": "780",
+    "cca2": "TT",
+    "cca3": "TTO",
+    "name": {
+      "en": "Trinidad and Tobago",
+      "ru": "Тринидад и Тобаго"
+    },
+    "capital": {
+      "en": "Port of Spain",
+      "ru": "Порт-оф-Спейн"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/tt.svg",
+    "flagEmoji": "🇹🇹"
+  },
+  {
+    "id": "776",
+    "cca2": "TO",
+    "cca3": "TON",
+    "name": {
+      "en": "Tonga",
+      "ru": "Тонга"
+    },
+    "capital": {
+      "en": "Nukuʻalofa",
+      "ru": "Нукуалофа"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/to.svg",
+    "flagEmoji": "🇹🇴"
+  },
+  {
+    "id": "768",
+    "cca2": "TG",
+    "cca3": "TGO",
+    "name": {
+      "en": "Togo",
+      "ru": "Того"
+    },
+    "capital": {
+      "en": "Lomé",
+      "ru": "Ломе"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/tg.svg",
+    "flagEmoji": "🇹🇬"
+  },
+  {
+    "id": "626",
+    "cca2": "TL",
+    "cca3": "TLS",
+    "name": {
+      "en": "Timor-Leste",
+      "ru": "Восточный Тимор"
+    },
+    "capital": {
+      "en": "Dili",
+      "ru": "Дили"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/tl.svg",
+    "flagEmoji": "🇹🇱"
+  },
+  {
+    "id": "764",
+    "cca2": "TH",
+    "cca3": "THA",
+    "name": {
+      "en": "Thailand",
+      "ru": "Таиланд"
+    },
+    "capital": {
+      "en": "Bangkok",
+      "ru": "Бангкок"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/th.svg",
+    "flagEmoji": "🇹🇭"
+  },
+  {
+    "id": "834",
+    "cca2": "TZ",
+    "cca3": "TZA",
+    "name": {
+      "en": "Tanzania",
+      "ru": "Танзания"
+    },
+    "capital": {
+      "en": "Dodoma",
+      "ru": "Додома"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/tz.svg",
+    "flagEmoji": "🇹🇿"
+  },
+  {
+    "id": "762",
+    "cca2": "TJ",
+    "cca3": "TJK",
+    "name": {
+      "en": "Tajikistan",
+      "ru": "Таджикистан"
+    },
+    "capital": {
+      "en": "Dushanbe",
+      "ru": "Душанбе"
+    },
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flagSvg": "https://flagcdn.com/tj.svg",
+    "flagEmoji": "🇹🇯"
+  },
+  {
+    "id": "158",
+    "cca2": "TW",
+    "cca3": "TWN",
+    "name": {
+      "en": "Taiwan",
+      "ru": "Тайвань"
+    },
+    "capital": {
+      "en": "Taipei",
+      "ru": "Тайбэй"
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/tw.svg",
+    "flagEmoji": "🇹🇼"
+  },
+  {
+    "id": "760",
+    "cca2": "SY",
+    "cca3": "SYR",
+    "name": {
+      "en": "Syria",
+      "ru": "Сирия"
+    },
+    "capital": {
+      "en": "Damascus",
+      "ru": "Дамаск"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/sy.svg",
+    "flagEmoji": "🇸🇾"
+  },
+  {
+    "id": "756",
+    "cca2": "CH",
+    "cca3": "CHE",
+    "name": {
+      "en": "Switzerland",
+      "ru": "Швейцария"
+    },
+    "capital": {
+      "en": "Bern",
+      "ru": "Берн"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/ch.svg",
+    "flagEmoji": "🇨🇭"
+  },
+  {
+    "id": "752",
+    "cca2": "SE",
+    "cca3": "SWE",
+    "name": {
+      "en": "Sweden",
+      "ru": "Швеция"
+    },
+    "capital": {
+      "en": "Stockholm",
+      "ru": "Стокгольм"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/se.svg",
+    "flagEmoji": "🇸🇪"
+  },
+  {
+    "id": "748",
+    "cca2": "SZ",
+    "cca3": "SWZ",
+    "name": {
+      "en": "Eswatini",
+      "ru": "Свазиленд"
+    },
+    "capital": {
+      "en": "Mbabane",
+      "ru": "Мбабане"
+    },
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flagSvg": "https://flagcdn.com/sz.svg",
+    "flagEmoji": "🇸🇿"
+  },
+  {
+    "id": "740",
+    "cca2": "SR",
+    "cca3": "SUR",
+    "name": {
+      "en": "Suriname",
+      "ru": "Суринам"
+    },
+    "capital": {
+      "en": "Paramaribo",
+      "ru": "Парамарибо"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/sr.svg",
+    "flagEmoji": "🇸🇷"
+  },
+  {
+    "id": "728",
+    "cca2": "SS",
+    "cca3": "SSD",
+    "name": {
+      "en": "South Sudan",
+      "ru": "Южный Судан"
+    },
+    "capital": {
+      "en": "Juba",
+      "ru": "Джуба"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/ss.svg",
+    "flagEmoji": "🇸🇸"
+  },
+  {
+    "id": "729",
+    "cca2": "SD",
+    "cca3": "SDN",
+    "name": {
+      "en": "Sudan",
+      "ru": "Судан"
+    },
+    "capital": {
+      "en": "Khartoum",
+      "ru": "Хартум"
+    },
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flagSvg": "https://flagcdn.com/sd.svg",
+    "flagEmoji": "🇸🇩"
+  },
+  {
+    "id": "144",
+    "cca2": "LK",
+    "cca3": "LKA",
+    "name": {
+      "en": "Sri Lanka",
+      "ru": "Шри-Ланка"
+    },
+    "capital": {
+      "en": "Sri Jayawardenepura Kotte",
+      "ru": "Шри-Джаяварденепура-Котте"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/lk.svg",
+    "flagEmoji": "🇱🇰"
+  },
+  {
+    "id": "724",
+    "cca2": "ES",
+    "cca3": "ESP",
+    "name": {
+      "en": "Spain",
+      "ru": "Испания"
+    },
+    "capital": {
+      "en": "Madrid",
+      "ru": "Мадрид"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/es.svg",
+    "flagEmoji": "🇪🇸"
+  },
+  {
+    "id": "410",
+    "cca2": "KR",
+    "cca3": "KOR",
+    "name": {
+      "en": "South Korea",
+      "ru": "Южная Корея"
+    },
+    "capital": {
+      "en": "Seoul",
+      "ru": "Сеул"
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/kr.svg",
+    "flagEmoji": "🇰🇷"
+  },
+  {
+    "id": "710",
+    "cca2": "ZA",
+    "cca3": "ZAF",
+    "name": {
+      "en": "South Africa",
+      "ru": "Южная Африка"
+    },
+    "capital": {
+      "en": "Pretoria",
+      "ru": "Претория"
+    },
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flagSvg": "https://flagcdn.com/za.svg",
+    "flagEmoji": "🇿🇦"
+  },
+  {
+    "id": "706",
+    "cca2": "SO",
+    "cca3": "SOM",
+    "name": {
+      "en": "Somalia",
+      "ru": "Сомали"
+    },
+    "capital": {
+      "en": "Mogadishu",
+      "ru": "Могадишо"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/so.svg",
+    "flagEmoji": "🇸🇴"
+  },
+  {
+    "id": "090",
+    "cca2": "SB",
+    "cca3": "SLB",
+    "name": {
+      "en": "Solomon Islands",
+      "ru": "Соломоновы Острова"
+    },
+    "capital": {
+      "en": "Honiara",
+      "ru": "Хониара"
+    },
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flagSvg": "https://flagcdn.com/sb.svg",
+    "flagEmoji": "🇸🇧"
+  },
+  {
+    "id": "703",
+    "cca2": "SK",
+    "cca3": "SVK",
+    "name": {
+      "en": "Slovakia",
+      "ru": "Словакия"
+    },
+    "capital": {
+      "en": "Bratislava",
+      "ru": "Братислава"
+    },
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flagSvg": "https://flagcdn.com/sk.svg",
+    "flagEmoji": "🇸🇰"
+  },
+  {
+    "id": "705",
+    "cca2": "SI",
+    "cca3": "SVN",
+    "name": {
+      "en": "Slovenia",
+      "ru": "Словения"
+    },
+    "capital": {
+      "en": "Ljubljana",
+      "ru": "Любляна"
+    },
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flagSvg": "https://flagcdn.com/si.svg",
+    "flagEmoji": "🇸🇮"
+  },
+  {
+    "id": "702",
+    "cca2": "SG",
+    "cca3": "SGP",
+    "name": {
+      "en": "Singapore",
+      "ru": "Сингапур"
+    },
+    "capital": {
+      "en": "Singapore",
+      "ru": "Сингапур"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/sg.svg",
+    "flagEmoji": "🇸🇬"
+  },
+  {
+    "id": "694",
+    "cca2": "SL",
+    "cca3": "SLE",
+    "name": {
+      "en": "Sierra Leone",
+      "ru": "Сьерра-Леоне"
+    },
+    "capital": {
+      "en": "Freetown",
+      "ru": "Фритаун"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/sl.svg",
+    "flagEmoji": "🇸🇱"
+  },
+  {
+    "id": "690",
+    "cca2": "SC",
+    "cca3": "SYC",
+    "name": {
+      "en": "Seychelles",
+      "ru": "Сейшельские Острова"
+    },
+    "capital": {
+      "en": "Victoria",
+      "ru": "Виктория"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/sc.svg",
+    "flagEmoji": "🇸🇨"
+  },
+  {
+    "id": "688",
+    "cca2": "RS",
+    "cca3": "SRB",
+    "name": {
+      "en": "Serbia",
+      "ru": "Сербия"
+    },
+    "capital": {
+      "en": "Belgrade",
+      "ru": "Белград"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/rs.svg",
+    "flagEmoji": "🇷🇸"
+  },
+  {
+    "id": "686",
+    "cca2": "SN",
+    "cca3": "SEN",
+    "name": {
+      "en": "Senegal",
+      "ru": "Сенегал"
+    },
+    "capital": {
+      "en": "Dakar",
+      "ru": "Дакар"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/sn.svg",
+    "flagEmoji": "🇸🇳"
+  },
+  {
+    "id": "682",
+    "cca2": "SA",
+    "cca3": "SAU",
+    "name": {
+      "en": "Saudi Arabia",
+      "ru": "Саудовская Аравия"
+    },
+    "capital": {
+      "en": "Riyadh",
+      "ru": "Эр-Рияд"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/sa.svg",
+    "flagEmoji": "🇸🇦"
+  },
+  {
+    "id": "678",
+    "cca2": "ST",
+    "cca3": "STP",
+    "name": {
+      "en": "São Tomé and Príncipe",
+      "ru": "Сан-Томе и Принсипи"
+    },
+    "capital": {
+      "en": "São Tomé",
+      "ru": "Сан-Томе"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/st.svg",
+    "flagEmoji": "🇸🇹"
+  },
+  {
+    "id": "674",
+    "cca2": "SM",
+    "cca3": "SMR",
+    "name": {
+      "en": "San Marino",
+      "ru": "Сан-Марино"
+    },
+    "capital": {
+      "en": "City of San Marino",
+      "ru": "Сан-Марино"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/sm.svg",
+    "flagEmoji": "🇸🇲"
+  },
+  {
+    "id": "882",
+    "cca2": "WS",
+    "cca3": "WSM",
+    "name": {
+      "en": "Samoa",
+      "ru": "Самоа"
+    },
+    "capital": {
+      "en": "Apia",
+      "ru": "Апиа"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/ws.svg",
+    "flagEmoji": "🇼🇸"
+  },
+  {
+    "id": "670",
+    "cca2": "VC",
+    "cca3": "VCT",
+    "name": {
+      "en": "Saint Vincent and the Grenadines",
+      "ru": "Сент-Винсент и Гренадины"
+    },
+    "capital": {
+      "en": "Kingstown",
+      "ru": "Кингстаун"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/vc.svg",
+    "flagEmoji": "🇻🇨"
+  },
+  {
+    "id": "662",
+    "cca2": "LC",
+    "cca3": "LCA",
+    "name": {
+      "en": "Saint Lucia",
+      "ru": "Сент-Люсия"
+    },
+    "capital": {
+      "en": "Castries",
+      "ru": "Кастри"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/lc.svg",
+    "flagEmoji": "🇱🇨"
+  },
+  {
+    "id": "659",
+    "cca2": "KN",
+    "cca3": "KNA",
+    "name": {
+      "en": "Saint Kitts and Nevis",
+      "ru": "Сент-Китс и Невис"
+    },
+    "capital": {
+      "en": "Basseterre",
+      "ru": "Бастер"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/kn.svg",
+    "flagEmoji": "🇰🇳"
+  },
+  {
+    "id": "646",
+    "cca2": "RW",
+    "cca3": "RWA",
+    "name": {
+      "en": "Rwanda",
+      "ru": "Руанда"
+    },
+    "capital": {
+      "en": "Kigali",
+      "ru": "Кигали"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/rw.svg",
+    "flagEmoji": "🇷🇼"
+  },
+  {
+    "id": "643",
+    "cca2": "RU",
+    "cca3": "RUS",
+    "name": {
+      "en": "Russia",
+      "ru": "Россия"
+    },
+    "capital": {
+      "en": "Moscow",
+      "ru": "Москва"
+    },
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flagSvg": "https://flagcdn.com/ru.svg",
+    "flagEmoji": "🇷🇺"
+  },
+  {
+    "id": "642",
+    "cca2": "RO",
+    "cca3": "ROU",
+    "name": {
+      "en": "Romania",
+      "ru": "Румыния"
+    },
+    "capital": {
+      "en": "Bucharest",
+      "ru": "Бухарест"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/ro.svg",
+    "flagEmoji": "🇷🇴"
+  },
+  {
+    "id": "634",
+    "cca2": "QA",
+    "cca3": "QAT",
+    "name": {
+      "en": "Qatar",
+      "ru": "Катар"
+    },
+    "capital": {
+      "en": "Doha",
+      "ru": "Доха"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/qa.svg",
+    "flagEmoji": "🇶🇦"
+  },
+  {
+    "id": "620",
+    "cca2": "PT",
+    "cca3": "PRT",
+    "name": {
+      "en": "Portugal",
+      "ru": "Португалия"
+    },
+    "capital": {
+      "en": "Lisbon",
+      "ru": "Лиссабон"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/pt.svg",
+    "flagEmoji": "🇵🇹"
+  },
+  {
+    "id": "616",
+    "cca2": "PL",
+    "cca3": "POL",
+    "name": {
+      "en": "Poland",
+      "ru": "Польша"
+    },
+    "capital": {
+      "en": "Warsaw",
+      "ru": "Варшава"
+    },
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flagSvg": "https://flagcdn.com/pl.svg",
+    "flagEmoji": "🇵🇱"
+  },
+  {
+    "id": "608",
+    "cca2": "PH",
+    "cca3": "PHL",
+    "name": {
+      "en": "Philippines",
+      "ru": "Филиппины"
+    },
+    "capital": {
+      "en": "Manila",
+      "ru": "Манила"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/ph.svg",
+    "flagEmoji": "🇵🇭"
+  },
+  {
+    "id": "604",
+    "cca2": "PE",
+    "cca3": "PER",
+    "name": {
+      "en": "Peru",
+      "ru": "Перу"
+    },
+    "capital": {
+      "en": "Lima",
+      "ru": "Лима"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/pe.svg",
+    "flagEmoji": "🇵🇪"
+  },
+  {
+    "id": "600",
+    "cca2": "PY",
+    "cca3": "PRY",
+    "name": {
+      "en": "Paraguay",
+      "ru": "Парагвай"
+    },
+    "capital": {
+      "en": "Asunción",
+      "ru": "Асунсьон"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/py.svg",
+    "flagEmoji": "🇵🇾"
+  },
+  {
+    "id": "598",
+    "cca2": "PG",
+    "cca3": "PNG",
+    "name": {
+      "en": "Papua New Guinea",
+      "ru": "Папуа — Новая Гвинея"
+    },
+    "capital": {
+      "en": "Port Moresby",
+      "ru": "Порт-Морсби"
+    },
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flagSvg": "https://flagcdn.com/pg.svg",
+    "flagEmoji": "🇵🇬"
+  },
+  {
+    "id": "591",
+    "cca2": "PA",
+    "cca3": "PAN",
+    "name": {
+      "en": "Panama",
+      "ru": "Панама"
+    },
+    "capital": {
+      "en": "Panama City",
+      "ru": "Панама"
+    },
+    "region": "Americas",
+    "subregion": "Central America",
+    "flagSvg": "https://flagcdn.com/pa.svg",
+    "flagEmoji": "🇵🇦"
+  },
+  {
+    "id": "585",
+    "cca2": "PW",
+    "cca3": "PLW",
+    "name": {
+      "en": "Palau",
+      "ru": "Палау"
+    },
+    "capital": {
+      "en": "Ngerulmud",
+      "ru": "Нгерулмуд"
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flagSvg": "https://flagcdn.com/pw.svg",
+    "flagEmoji": "🇵🇼"
+  },
+  {
+    "id": "586",
+    "cca2": "PK",
+    "cca3": "PAK",
+    "name": {
+      "en": "Pakistan",
+      "ru": "Пакистан"
+    },
+    "capital": {
+      "en": "Islamabad",
+      "ru": "Исламабад"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/pk.svg",
+    "flagEmoji": "🇵🇰"
+  },
+  {
+    "id": "512",
+    "cca2": "OM",
+    "cca3": "OMN",
+    "name": {
+      "en": "Oman",
+      "ru": "Оман"
+    },
+    "capital": {
+      "en": "Muscat",
+      "ru": "Маскат"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/om.svg",
+    "flagEmoji": "🇴🇲"
+  },
+  {
+    "id": "578",
+    "cca2": "NO",
+    "cca3": "NOR",
+    "name": {
+      "en": "Norway",
+      "ru": "Норвегия"
+    },
+    "capital": {
+      "en": "Oslo",
+      "ru": "Осло"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/no.svg",
+    "flagEmoji": "🇳🇴"
+  },
+  {
+    "id": "408",
+    "cca2": "KP",
+    "cca3": "PRK",
+    "name": {
+      "en": "North Korea",
+      "ru": "Северная Корея"
+    },
+    "capital": {
+      "en": "Pyongyang",
+      "ru": "Пхеньян"
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/kp.svg",
+    "flagEmoji": "🇰🇵"
+  },
+  {
+    "id": "566",
+    "cca2": "NG",
+    "cca3": "NGA",
+    "name": {
+      "en": "Nigeria",
+      "ru": "Нигерия"
+    },
+    "capital": {
+      "en": "Abuja",
+      "ru": "Абуджа"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/ng.svg",
+    "flagEmoji": "🇳🇬"
+  },
+  {
+    "id": "562",
+    "cca2": "NE",
+    "cca3": "NER",
+    "name": {
+      "en": "Niger",
+      "ru": "Нигер"
+    },
+    "capital": {
+      "en": "Niamey",
+      "ru": "Ниамей"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/ne.svg",
+    "flagEmoji": "🇳🇪"
+  },
+  {
+    "id": "558",
+    "cca2": "NI",
+    "cca3": "NIC",
+    "name": {
+      "en": "Nicaragua",
+      "ru": "Никарагуа"
+    },
+    "capital": {
+      "en": "Managua",
+      "ru": "Манагуа"
+    },
+    "region": "Americas",
+    "subregion": "Central America",
+    "flagSvg": "https://flagcdn.com/ni.svg",
+    "flagEmoji": "🇳🇮"
+  },
+  {
+    "id": "554",
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "name": {
+      "en": "New Zealand",
+      "ru": "Новая Зеландия"
+    },
+    "capital": {
+      "en": "Wellington",
+      "ru": "Веллингтон"
+    },
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flagSvg": "https://flagcdn.com/nz.svg",
+    "flagEmoji": "🇳🇿"
+  },
+  {
+    "id": "570",
+    "cca2": "NU",
+    "cca3": "NIU",
+    "name": {
+      "en": "Niue",
+      "ru": "Ниуэ"
+    },
+    "capital": {
+      "en": "Alofi",
+      "ru": "Alofi"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/nu.svg",
+    "flagEmoji": "🇳🇺"
+  },
+  {
+    "id": "184",
+    "cca2": "CK",
+    "cca3": "COK",
+    "name": {
+      "en": "Cook Islands",
+      "ru": "Острова Кука"
+    },
+    "capital": {
+      "en": "Avarua",
+      "ru": "Avarua"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/ck.svg",
+    "flagEmoji": "🇨🇰"
+  },
+  {
+    "id": "528",
+    "cca2": "NL",
+    "cca3": "NLD",
+    "name": {
+      "en": "Netherlands",
+      "ru": "Нидерланды"
+    },
+    "capital": {
+      "en": "Amsterdam",
+      "ru": "Амстердам"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/nl.svg",
+    "flagEmoji": "🇳🇱"
+  },
+  {
+    "id": "533",
+    "cca2": "AW",
+    "cca3": "ABW",
+    "name": {
+      "en": "Aruba",
+      "ru": "Аруба"
+    },
+    "capital": {
+      "en": "Oranjestad",
+      "ru": "Ораньестад"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/aw.svg",
+    "flagEmoji": "🇦🇼"
+  },
+  {
+    "id": "531",
+    "cca2": "CW",
+    "cca3": "CUW",
+    "name": {
+      "en": "Curaçao",
+      "ru": "Кюрасао"
+    },
+    "capital": {
+      "en": "Willemstad",
+      "ru": "Вильямстад"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/cw.svg",
+    "flagEmoji": "🇨🇼"
+  },
+  {
+    "id": "524",
+    "cca2": "NP",
+    "cca3": "NPL",
+    "name": {
+      "en": "Nepal",
+      "ru": "Непал"
+    },
+    "capital": {
+      "en": "Kathmandu",
+      "ru": "Катманду"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/np.svg",
+    "flagEmoji": "🇳🇵"
+  },
+  {
+    "id": "520",
+    "cca2": "NR",
+    "cca3": "NRU",
+    "name": {
+      "en": "Nauru",
+      "ru": "Науру"
+    },
+    "capital": {
+      "en": "Yaren",
+      "ru": "Ярен"
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flagSvg": "https://flagcdn.com/nr.svg",
+    "flagEmoji": "🇳🇷"
+  },
+  {
+    "id": "516",
+    "cca2": "NA",
+    "cca3": "NAM",
+    "name": {
+      "en": "Namibia",
+      "ru": "Намибия"
+    },
+    "capital": {
+      "en": "Windhoek",
+      "ru": "Виндхук"
+    },
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flagSvg": "https://flagcdn.com/na.svg",
+    "flagEmoji": "🇳🇦"
+  },
+  {
+    "id": "508",
+    "cca2": "MZ",
+    "cca3": "MOZ",
+    "name": {
+      "en": "Mozambique",
+      "ru": "Мозамбик"
+    },
+    "capital": {
+      "en": "Maputo",
+      "ru": "Мапуту"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/mz.svg",
+    "flagEmoji": "🇲🇿"
+  },
+  {
+    "id": "504",
+    "cca2": "MA",
+    "cca3": "MAR",
+    "name": {
+      "en": "Morocco",
+      "ru": "Марокко"
+    },
+    "capital": {
+      "en": "Rabat",
+      "ru": "Рабат"
+    },
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flagSvg": "https://flagcdn.com/ma.svg",
+    "flagEmoji": "🇲🇦"
+  },
+  {
+    "id": "732",
+    "cca2": "EH",
+    "cca3": "ESH",
+    "name": {
+      "en": "Western Sahara",
+      "ru": "Западная Сахара"
+    },
+    "capital": {
+      "en": "El Aaiún",
+      "ru": "Эль-Аюн"
+    },
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flagSvg": "https://flagcdn.com/eh.svg",
+    "flagEmoji": "🇪🇭"
+  },
+  {
+    "id": "499",
+    "cca2": "ME",
+    "cca3": "MNE",
+    "name": {
+      "en": "Montenegro",
+      "ru": "Черногория"
+    },
+    "capital": {
+      "en": "Podgorica",
+      "ru": "Подгорица"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/me.svg",
+    "flagEmoji": "🇲🇪"
+  },
+  {
+    "id": "496",
+    "cca2": "MN",
+    "cca3": "MNG",
+    "name": {
+      "en": "Mongolia",
+      "ru": "Монголия"
+    },
+    "capital": {
+      "en": "Ulaanbaatar",
+      "ru": "Улан-Батор"
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/mn.svg",
+    "flagEmoji": "🇲🇳"
+  },
+  {
+    "id": "498",
+    "cca2": "MD",
+    "cca3": "MDA",
+    "name": {
+      "en": "Moldova",
+      "ru": "Молдавия"
+    },
+    "capital": {
+      "en": "Chișinău",
+      "ru": "Кишинёв"
+    },
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flagSvg": "https://flagcdn.com/md.svg",
+    "flagEmoji": "🇲🇩"
+  },
+  {
+    "id": "492",
+    "cca2": "MC",
+    "cca3": "MCO",
+    "name": {
+      "en": "Monaco",
+      "ru": "Монако"
+    },
+    "capital": {
+      "en": "Monaco",
+      "ru": "Монако"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/mc.svg",
+    "flagEmoji": "🇲🇨"
+  },
+  {
+    "id": "484",
+    "cca2": "MX",
+    "cca3": "MEX",
+    "name": {
+      "en": "Mexico",
+      "ru": "Мексика"
+    },
+    "capital": {
+      "en": "Mexico City",
+      "ru": "Мехико"
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "flagSvg": "https://flagcdn.com/mx.svg",
+    "flagEmoji": "🇲🇽"
+  },
+  {
+    "id": "480",
+    "cca2": "MU",
+    "cca3": "MUS",
+    "name": {
+      "en": "Mauritius",
+      "ru": "Маврикий"
+    },
+    "capital": {
+      "en": "Port Louis",
+      "ru": "Порт-Луи"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/mu.svg",
+    "flagEmoji": "🇲🇺"
+  },
+  {
+    "id": "478",
+    "cca2": "MR",
+    "cca3": "MRT",
+    "name": {
+      "en": "Mauritania",
+      "ru": "Мавритания"
+    },
+    "capital": {
+      "en": "Nouakchott",
+      "ru": "Нуакшот"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/mr.svg",
+    "flagEmoji": "🇲🇷"
+  },
+  {
+    "id": "470",
+    "cca2": "MT",
+    "cca3": "MLT",
+    "name": {
+      "en": "Malta",
+      "ru": "Мальта"
+    },
+    "capital": {
+      "en": "Valletta",
+      "ru": "Валлетта"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/mt.svg",
+    "flagEmoji": "🇲🇹"
+  },
+  {
+    "id": "466",
+    "cca2": "ML",
+    "cca3": "MLI",
+    "name": {
+      "en": "Mali",
+      "ru": "Мали"
+    },
+    "capital": {
+      "en": "Bamako",
+      "ru": "Бамако"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/ml.svg",
+    "flagEmoji": "🇲🇱"
+  },
+  {
+    "id": "462",
+    "cca2": "MV",
+    "cca3": "MDV",
+    "name": {
+      "en": "Maldives",
+      "ru": "Мальдивы"
+    },
+    "capital": {
+      "en": "Malé",
+      "ru": "Мале"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/mv.svg",
+    "flagEmoji": "🇲🇻"
+  },
+  {
+    "id": "458",
+    "cca2": "MY",
+    "cca3": "MYS",
+    "name": {
+      "en": "Malaysia",
+      "ru": "Малайзия"
+    },
+    "capital": {
+      "en": "Kuala Lumpur",
+      "ru": "Куала-Лумпур"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/my.svg",
+    "flagEmoji": "🇲🇾"
+  },
+  {
+    "id": "454",
+    "cca2": "MW",
+    "cca3": "MWI",
+    "name": {
+      "en": "Malawi",
+      "ru": "Малави"
+    },
+    "capital": {
+      "en": "Lilongwe",
+      "ru": "Лилонгве"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/mw.svg",
+    "flagEmoji": "🇲🇼"
+  },
+  {
+    "id": "450",
+    "cca2": "MG",
+    "cca3": "MDG",
+    "name": {
+      "en": "Madagascar",
+      "ru": "Мадагаскар"
+    },
+    "capital": {
+      "en": "Antananarivo",
+      "ru": "Антананариву"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/mg.svg",
+    "flagEmoji": "🇲🇬"
+  },
+  {
+    "id": "807",
+    "cca2": "MK",
+    "cca3": "MKD",
+    "name": {
+      "en": "North Macedonia",
+      "ru": "Северная Македония"
+    },
+    "capital": {
+      "en": "Skopje",
+      "ru": "Скопье"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/mk.svg",
+    "flagEmoji": "🇲🇰"
+  },
+  {
+    "id": "442",
+    "cca2": "LU",
+    "cca3": "LUX",
+    "name": {
+      "en": "Luxembourg",
+      "ru": "Люксембург"
+    },
+    "capital": {
+      "en": "Luxembourg",
+      "ru": "Люксембург"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/lu.svg",
+    "flagEmoji": "🇱🇺"
+  },
+  {
+    "id": "440",
+    "cca2": "LT",
+    "cca3": "LTU",
+    "name": {
+      "en": "Lithuania",
+      "ru": "Литва"
+    },
+    "capital": {
+      "en": "Vilnius",
+      "ru": "Вильнюс"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/lt.svg",
+    "flagEmoji": "🇱🇹"
+  },
+  {
+    "id": "438",
+    "cca2": "LI",
+    "cca3": "LIE",
+    "name": {
+      "en": "Liechtenstein",
+      "ru": "Лихтенштейн"
+    },
+    "capital": {
+      "en": "Vaduz",
+      "ru": "Вадуц"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/li.svg",
+    "flagEmoji": "🇱🇮"
+  },
+  {
+    "id": "434",
+    "cca2": "LY",
+    "cca3": "LBY",
+    "name": {
+      "en": "Libya",
+      "ru": "Ливия"
+    },
+    "capital": {
+      "en": "Tripoli",
+      "ru": "Триполи"
+    },
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flagSvg": "https://flagcdn.com/ly.svg",
+    "flagEmoji": "🇱🇾"
+  },
+  {
+    "id": "430",
+    "cca2": "LR",
+    "cca3": "LBR",
+    "name": {
+      "en": "Liberia",
+      "ru": "Либерия"
+    },
+    "capital": {
+      "en": "Monrovia",
+      "ru": "Монровия"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/lr.svg",
+    "flagEmoji": "🇱🇷"
+  },
+  {
+    "id": "426",
+    "cca2": "LS",
+    "cca3": "LSO",
+    "name": {
+      "en": "Lesotho",
+      "ru": "Лесото"
+    },
+    "capital": {
+      "en": "Maseru",
+      "ru": "Масеру"
+    },
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flagSvg": "https://flagcdn.com/ls.svg",
+    "flagEmoji": "🇱🇸"
+  },
+  {
+    "id": "422",
+    "cca2": "LB",
+    "cca3": "LBN",
+    "name": {
+      "en": "Lebanon",
+      "ru": "Ливан"
+    },
+    "capital": {
+      "en": "Beirut",
+      "ru": "Бейрут"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/lb.svg",
+    "flagEmoji": "🇱🇧"
+  },
+  {
+    "id": "428",
+    "cca2": "LV",
+    "cca3": "LVA",
+    "name": {
+      "en": "Latvia",
+      "ru": "Латвия"
+    },
+    "capital": {
+      "en": "Riga",
+      "ru": "Рига"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/lv.svg",
+    "flagEmoji": "🇱🇻"
+  },
+  {
+    "id": "418",
+    "cca2": "LA",
+    "cca3": "LAO",
+    "name": {
+      "en": "Laos",
+      "ru": "Лаос"
+    },
+    "capital": {
+      "en": "Vientiane",
+      "ru": "Вьентьян"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/la.svg",
+    "flagEmoji": "🇱🇦"
+  },
+  {
+    "id": "417",
+    "cca2": "KG",
+    "cca3": "KGZ",
+    "name": {
+      "en": "Kyrgyzstan",
+      "ru": "Киргизия"
+    },
+    "capital": {
+      "en": "Bishkek",
+      "ru": "Бишкек"
+    },
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flagSvg": "https://flagcdn.com/kg.svg",
+    "flagEmoji": "🇰🇬"
+  },
+  {
+    "id": "414",
+    "cca2": "KW",
+    "cca3": "KWT",
+    "name": {
+      "en": "Kuwait",
+      "ru": "Кувейт"
+    },
+    "capital": {
+      "en": "Kuwait City",
+      "ru": "Эль-Кувейт"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/kw.svg",
+    "flagEmoji": "🇰🇼"
+  },
+  {
+    "id": "296",
+    "cca2": "KI",
+    "cca3": "KIR",
+    "name": {
+      "en": "Kiribati",
+      "ru": "Кирибати"
+    },
+    "capital": {
+      "en": "South Tarawa",
+      "ru": "Тарава"
+    },
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "flagSvg": "https://flagcdn.com/ki.svg",
+    "flagEmoji": "🇰🇮"
+  },
+  {
+    "id": "404",
+    "cca2": "KE",
+    "cca3": "KEN",
+    "name": {
+      "en": "Kenya",
+      "ru": "Кения"
+    },
+    "capital": {
+      "en": "Nairobi",
+      "ru": "Найроби"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/ke.svg",
+    "flagEmoji": "🇰🇪"
+  },
+  {
+    "id": "398",
+    "cca2": "KZ",
+    "cca3": "KAZ",
+    "name": {
+      "en": "Kazakhstan",
+      "ru": "Казахстан"
+    },
+    "capital": {
+      "en": "Astana",
+      "ru": "Астана"
+    },
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "flagSvg": "https://flagcdn.com/kz.svg",
+    "flagEmoji": "🇰🇿"
+  },
+  {
+    "id": "400",
+    "cca2": "JO",
+    "cca3": "JOR",
+    "name": {
+      "en": "Jordan",
+      "ru": "Иордания"
+    },
+    "capital": {
+      "en": "Amman",
+      "ru": "Амман"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/jo.svg",
+    "flagEmoji": "🇯🇴"
+  },
+  {
+    "id": "392",
+    "cca2": "JP",
+    "cca3": "JPN",
+    "name": {
+      "en": "Japan",
+      "ru": "Япония"
+    },
+    "capital": {
+      "en": "Tokyo",
+      "ru": "Токио"
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/jp.svg",
+    "flagEmoji": "🇯🇵"
+  },
+  {
+    "id": "388",
+    "cca2": "JM",
+    "cca3": "JAM",
+    "name": {
+      "en": "Jamaica",
+      "ru": "Ямайка"
+    },
+    "capital": {
+      "en": "Kingston",
+      "ru": "Кингстон"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/jm.svg",
+    "flagEmoji": "🇯🇲"
+  },
+  {
+    "id": "380",
+    "cca2": "IT",
+    "cca3": "ITA",
+    "name": {
+      "en": "Italy",
+      "ru": "Италия"
+    },
+    "capital": {
+      "en": "Rome",
+      "ru": "Рим"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/it.svg",
+    "flagEmoji": "🇮🇹"
+  },
+  {
+    "id": "376",
+    "cca2": "IL",
+    "cca3": "ISR",
+    "name": {
+      "en": "Israel",
+      "ru": "Израиль"
+    },
+    "capital": {
+      "en": "Jerusalem",
+      "ru": "Иерусалим"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/il.svg",
+    "flagEmoji": "🇮🇱"
+  },
+  {
+    "id": "275",
+    "cca2": "PS",
+    "cca3": "PSE",
+    "name": {
+      "en": "Palestine",
+      "ru": "Палестина"
+    },
+    "capital": {
+      "en": "Ramallah",
+      "ru": "Рамалла"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/ps.svg",
+    "flagEmoji": "🇵🇸"
+  },
+  {
+    "id": "372",
+    "cca2": "IE",
+    "cca3": "IRL",
+    "name": {
+      "en": "Ireland",
+      "ru": "Ирландия"
+    },
+    "capital": {
+      "en": "Dublin",
+      "ru": "Дублин"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/ie.svg",
+    "flagEmoji": "🇮🇪"
+  },
+  {
+    "id": "368",
+    "cca2": "IQ",
+    "cca3": "IRQ",
+    "name": {
+      "en": "Iraq",
+      "ru": "Ирак"
+    },
+    "capital": {
+      "en": "Baghdad",
+      "ru": "Багдад"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/iq.svg",
+    "flagEmoji": "🇮🇶"
+  },
+  {
+    "id": "364",
+    "cca2": "IR",
+    "cca3": "IRN",
+    "name": {
+      "en": "Iran",
+      "ru": "Иран"
+    },
+    "capital": {
+      "en": "Tehran",
+      "ru": "Тегеран"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/ir.svg",
+    "flagEmoji": "🇮🇷"
+  },
+  {
+    "id": "360",
+    "cca2": "ID",
+    "cca3": "IDN",
+    "name": {
+      "en": "Indonesia",
+      "ru": "Индонезия"
+    },
+    "capital": {
+      "en": "Jakarta",
+      "ru": "Джакарта"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/id.svg",
+    "flagEmoji": "🇮🇩"
+  },
+  {
+    "id": "356",
+    "cca2": "IN",
+    "cca3": "IND",
+    "name": {
+      "en": "India",
+      "ru": "Индия"
+    },
+    "capital": {
+      "en": "New Delhi",
+      "ru": "Нью-Дели"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/in.svg",
+    "flagEmoji": "🇮🇳"
+  },
+  {
+    "id": "352",
+    "cca2": "IS",
+    "cca3": "ISL",
+    "name": {
+      "en": "Iceland",
+      "ru": "Исландия"
+    },
+    "capital": {
+      "en": "Reykjavik",
+      "ru": "Рейкьявик"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/is.svg",
+    "flagEmoji": "🇮🇸"
+  },
+  {
+    "id": "348",
+    "cca2": "HU",
+    "cca3": "HUN",
+    "name": {
+      "en": "Hungary",
+      "ru": "Венгрия"
+    },
+    "capital": {
+      "en": "Budapest",
+      "ru": "Будапешт"
+    },
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flagSvg": "https://flagcdn.com/hu.svg",
+    "flagEmoji": "🇭🇺"
+  },
+  {
+    "id": "340",
+    "cca2": "HN",
+    "cca3": "HND",
+    "name": {
+      "en": "Honduras",
+      "ru": "Гондурас"
+    },
+    "capital": {
+      "en": "Tegucigalpa",
+      "ru": "Тегусигальпа"
+    },
+    "region": "Americas",
+    "subregion": "Central America",
+    "flagSvg": "https://flagcdn.com/hn.svg",
+    "flagEmoji": "🇭🇳"
+  },
+  {
+    "id": "332",
+    "cca2": "HT",
+    "cca3": "HTI",
+    "name": {
+      "en": "Haiti",
+      "ru": "Гаити"
+    },
+    "capital": {
+      "en": "Port-au-Prince",
+      "ru": "Порт-о-Пренс"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/ht.svg",
+    "flagEmoji": "🇭🇹"
+  },
+  {
+    "id": "328",
+    "cca2": "GY",
+    "cca3": "GUY",
+    "name": {
+      "en": "Guyana",
+      "ru": "Гайана"
+    },
+    "capital": {
+      "en": "Georgetown",
+      "ru": "Джорджтаун"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/gy.svg",
+    "flagEmoji": "🇬🇾"
+  },
+  {
+    "id": "624",
+    "cca2": "GW",
+    "cca3": "GNB",
+    "name": {
+      "en": "Guinea-Bissau",
+      "ru": "Гвинея-Бисау"
+    },
+    "capital": {
+      "en": "Bissau",
+      "ru": "Бисау"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/gw.svg",
+    "flagEmoji": "🇬🇼"
+  },
+  {
+    "id": "324",
+    "cca2": "GN",
+    "cca3": "GIN",
+    "name": {
+      "en": "Guinea",
+      "ru": "Гвинея"
+    },
+    "capital": {
+      "en": "Conakry",
+      "ru": "Конакри"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/gn.svg",
+    "flagEmoji": "🇬🇳"
+  },
+  {
+    "id": "320",
+    "cca2": "GT",
+    "cca3": "GTM",
+    "name": {
+      "en": "Guatemala",
+      "ru": "Гватемала"
+    },
+    "capital": {
+      "en": "Guatemala City",
+      "ru": "Гватемала"
+    },
+    "region": "Americas",
+    "subregion": "Central America",
+    "flagSvg": "https://flagcdn.com/gt.svg",
+    "flagEmoji": "🇬🇹"
+  },
+  {
+    "id": "308",
+    "cca2": "GD",
+    "cca3": "GRD",
+    "name": {
+      "en": "Grenada",
+      "ru": "Гренада"
+    },
+    "capital": {
+      "en": "Saint George's",
+      "ru": "Сент-Джорджес"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/gd.svg",
+    "flagEmoji": "🇬🇩"
+  },
+  {
+    "id": "300",
+    "cca2": "GR",
+    "cca3": "GRC",
+    "name": {
+      "en": "Greece",
+      "ru": "Греция"
+    },
+    "capital": {
+      "en": "Athens",
+      "ru": "Афины"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/gr.svg",
+    "flagEmoji": "🇬🇷"
+  },
+  {
+    "id": "288",
+    "cca2": "GH",
+    "cca3": "GHA",
+    "name": {
+      "en": "Ghana",
+      "ru": "Гана"
+    },
+    "capital": {
+      "en": "Accra",
+      "ru": "Аккра"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/gh.svg",
+    "flagEmoji": "🇬🇭"
+  },
+  {
+    "id": "276",
+    "cca2": "DE",
+    "cca3": "DEU",
+    "name": {
+      "en": "Germany",
+      "ru": "Германия"
+    },
+    "capital": {
+      "en": "Berlin",
+      "ru": "Берлин"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/de.svg",
+    "flagEmoji": "🇩🇪"
+  },
+  {
+    "id": "268",
+    "cca2": "GE",
+    "cca3": "GEO",
+    "name": {
+      "en": "Georgia",
+      "ru": "Грузия"
+    },
+    "capital": {
+      "en": "Tbilisi",
+      "ru": "Тбилиси"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/ge.svg",
+    "flagEmoji": "🇬🇪"
+  },
+  {
+    "id": "270",
+    "cca2": "GM",
+    "cca3": "GMB",
+    "name": {
+      "en": "Gambia",
+      "ru": "Гамбия"
+    },
+    "capital": {
+      "en": "Banjul",
+      "ru": "Банжул"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/gm.svg",
+    "flagEmoji": "🇬🇲"
+  },
+  {
+    "id": "266",
+    "cca2": "GA",
+    "cca3": "GAB",
+    "name": {
+      "en": "Gabon",
+      "ru": "Габон"
+    },
+    "capital": {
+      "en": "Libreville",
+      "ru": "Либревиль"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/ga.svg",
+    "flagEmoji": "🇬🇦"
+  },
+  {
+    "id": "250",
+    "cca2": "FR",
+    "cca3": "FRA",
+    "name": {
+      "en": "France",
+      "ru": "Франция"
+    },
+    "capital": {
+      "en": "Paris",
+      "ru": "Париж"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/fr.svg",
+    "flagEmoji": "🇫🇷"
+  },
+  {
+    "id": "666",
+    "cca2": "PM",
+    "cca3": "SPM",
+    "name": {
+      "en": "Saint Pierre and Miquelon",
+      "ru": "Сен-Пьер и Микелон"
+    },
+    "capital": {
+      "en": "Saint-Pierre",
+      "ru": "Saint-Pierre"
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "flagSvg": "https://flagcdn.com/pm.svg",
+    "flagEmoji": "🇵🇲"
+  },
+  {
+    "id": "876",
+    "cca2": "WF",
+    "cca3": "WLF",
+    "name": {
+      "en": "Wallis and Futuna",
+      "ru": "Уоллис и Футуна"
+    },
+    "capital": {
+      "en": "Mata-Utu",
+      "ru": "Mata-Utu"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/wf.svg",
+    "flagEmoji": "🇼🇫"
+  },
+  {
+    "id": "663",
+    "cca2": "MF",
+    "cca3": "MAF",
+    "name": {
+      "en": "Saint Martin",
+      "ru": "Сен-Мартен"
+    },
+    "capital": {
+      "en": "Marigot",
+      "ru": "Marigot"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/mf.svg",
+    "flagEmoji": "🇲🇫"
+  },
+  {
+    "id": "652",
+    "cca2": "BL",
+    "cca3": "BLM",
+    "name": {
+      "en": "Saint Barthélemy",
+      "ru": "Сен-Бартелеми"
+    },
+    "capital": {
+      "en": "Gustavia",
+      "ru": "Gustavia"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/bl.svg",
+    "flagEmoji": "🇧🇱"
+  },
+  {
+    "id": "258",
+    "cca2": "PF",
+    "cca3": "PYF",
+    "name": {
+      "en": "French Polynesia",
+      "ru": "Французская Полинезия"
+    },
+    "capital": {
+      "en": "Papeetē",
+      "ru": "Папеэте"
+    },
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "flagSvg": "https://flagcdn.com/pf.svg",
+    "flagEmoji": "🇵🇫"
+  },
+  {
+    "id": "540",
+    "cca2": "NC",
+    "cca3": "NCL",
+    "name": {
+      "en": "New Caledonia",
+      "ru": "Новая Каледония"
+    },
+    "capital": {
+      "en": "Nouméa",
+      "ru": "Нумеа"
+    },
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flagSvg": "https://flagcdn.com/nc.svg",
+    "flagEmoji": "🇳🇨"
+  },
+  {
+    "id": "260",
+    "cca2": "TF",
+    "cca3": "ATF",
+    "name": {
+      "en": "French Southern and Antarctic Lands",
+      "ru": "Французские Южные и Антарктические территории"
+    },
+    "capital": {
+      "en": "Port-aux-Français",
+      "ru": "Port-aux-Français"
+    },
+    "region": "Antarctic",
+    "subregion": "",
+    "flagSvg": "https://flagcdn.com/tf.svg",
+    "flagEmoji": "🇹🇫"
+  },
+  {
+    "id": "248",
+    "cca2": "AX",
+    "cca3": "ALA",
+    "name": {
+      "en": "Åland Islands",
+      "ru": "Аландские острова"
+    },
+    "capital": {
+      "en": "Mariehamn",
+      "ru": "Mariehamn"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/ax.svg",
+    "flagEmoji": "🇦🇽"
+  },
+  {
+    "id": "246",
+    "cca2": "FI",
+    "cca3": "FIN",
+    "name": {
+      "en": "Finland",
+      "ru": "Финляндия"
+    },
+    "capital": {
+      "en": "Helsinki",
+      "ru": "Хельсинки"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/fi.svg",
+    "flagEmoji": "🇫🇮"
+  },
+  {
+    "id": "242",
+    "cca2": "FJ",
+    "cca3": "FJI",
+    "name": {
+      "en": "Fiji",
+      "ru": "Фиджи"
+    },
+    "capital": {
+      "en": "Suva",
+      "ru": "Сува"
+    },
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "flagSvg": "https://flagcdn.com/fj.svg",
+    "flagEmoji": "🇫🇯"
+  },
+  {
+    "id": "231",
+    "cca2": "ET",
+    "cca3": "ETH",
+    "name": {
+      "en": "Ethiopia",
+      "ru": "Эфиопия"
+    },
+    "capital": {
+      "en": "Addis Ababa",
+      "ru": "Аддис-Абеба"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/et.svg",
+    "flagEmoji": "🇪🇹"
+  },
+  {
+    "id": "233",
+    "cca2": "EE",
+    "cca3": "EST",
+    "name": {
+      "en": "Estonia",
+      "ru": "Эстония"
+    },
+    "capital": {
+      "en": "Tallinn",
+      "ru": "Таллин"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/ee.svg",
+    "flagEmoji": "🇪🇪"
+  },
+  {
+    "id": "232",
+    "cca2": "ER",
+    "cca3": "ERI",
+    "name": {
+      "en": "Eritrea",
+      "ru": "Эритрея"
+    },
+    "capital": {
+      "en": "Asmara",
+      "ru": "Асмэра"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/er.svg",
+    "flagEmoji": "🇪🇷"
+  },
+  {
+    "id": "226",
+    "cca2": "GQ",
+    "cca3": "GNQ",
+    "name": {
+      "en": "Equatorial Guinea",
+      "ru": "Экваториальная Гвинея"
+    },
+    "capital": {
+      "en": "Malabo",
+      "ru": "Малабо"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/gq.svg",
+    "flagEmoji": "🇬🇶"
+  },
+  {
+    "id": "222",
+    "cca2": "SV",
+    "cca3": "SLV",
+    "name": {
+      "en": "El Salvador",
+      "ru": "Сальвадор"
+    },
+    "capital": {
+      "en": "San Salvador",
+      "ru": "Сан-Сальвадор"
+    },
+    "region": "Americas",
+    "subregion": "Central America",
+    "flagSvg": "https://flagcdn.com/sv.svg",
+    "flagEmoji": "🇸🇻"
+  },
+  {
+    "id": "818",
+    "cca2": "EG",
+    "cca3": "EGY",
+    "name": {
+      "en": "Egypt",
+      "ru": "Египет"
+    },
+    "capital": {
+      "en": "Cairo",
+      "ru": "Каир"
+    },
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flagSvg": "https://flagcdn.com/eg.svg",
+    "flagEmoji": "🇪🇬"
+  },
+  {
+    "id": "218",
+    "cca2": "EC",
+    "cca3": "ECU",
+    "name": {
+      "en": "Ecuador",
+      "ru": "Эквадор"
+    },
+    "capital": {
+      "en": "Quito",
+      "ru": "Кито"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/ec.svg",
+    "flagEmoji": "🇪🇨"
+  },
+  {
+    "id": "214",
+    "cca2": "DO",
+    "cca3": "DOM",
+    "name": {
+      "en": "Dominican Republic",
+      "ru": "Доминиканская Республика"
+    },
+    "capital": {
+      "en": "Santo Domingo",
+      "ru": "Санто-Доминго"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/do.svg",
+    "flagEmoji": "🇩🇴"
+  },
+  {
+    "id": "212",
+    "cca2": "DM",
+    "cca3": "DMA",
+    "name": {
+      "en": "Dominica",
+      "ru": "Доминика"
+    },
+    "capital": {
+      "en": "Roseau",
+      "ru": "Розо"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/dm.svg",
+    "flagEmoji": "🇩🇲"
+  },
+  {
+    "id": "262",
+    "cca2": "DJ",
+    "cca3": "DJI",
+    "name": {
+      "en": "Djibouti",
+      "ru": "Джибути"
+    },
+    "capital": {
+      "en": "Djibouti",
+      "ru": "Джибути"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/dj.svg",
+    "flagEmoji": "🇩🇯"
+  },
+  {
+    "id": "304",
+    "cca2": "GL",
+    "cca3": "GRL",
+    "name": {
+      "en": "Greenland",
+      "ru": "Гренландия"
+    },
+    "capital": {
+      "en": "Nuuk",
+      "ru": "Нуук"
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "flagSvg": "https://flagcdn.com/gl.svg",
+    "flagEmoji": "🇬🇱"
+  },
+  {
+    "id": "234",
+    "cca2": "FO",
+    "cca3": "FRO",
+    "name": {
+      "en": "Faroe Islands",
+      "ru": "Фарерские острова"
+    },
+    "capital": {
+      "en": "Tórshavn",
+      "ru": "Торсхавн"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/fo.svg",
+    "flagEmoji": "🇫🇴"
+  },
+  {
+    "id": "208",
+    "cca2": "DK",
+    "cca3": "DNK",
+    "name": {
+      "en": "Denmark",
+      "ru": "Дания"
+    },
+    "capital": {
+      "en": "Copenhagen",
+      "ru": "Копенгаген"
+    },
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "flagSvg": "https://flagcdn.com/dk.svg",
+    "flagEmoji": "🇩🇰"
+  },
+  {
+    "id": "203",
+    "cca2": "CZ",
+    "cca3": "CZE",
+    "name": {
+      "en": "Czechia",
+      "ru": "Чехия"
+    },
+    "capital": {
+      "en": "Prague",
+      "ru": "Прага"
+    },
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flagSvg": "https://flagcdn.com/cz.svg",
+    "flagEmoji": "🇨🇿"
+  },
+  {
+    "id": "196",
+    "cca2": "CY",
+    "cca3": "CYP",
+    "name": {
+      "en": "Cyprus",
+      "ru": "Кипр"
+    },
+    "capital": {
+      "en": "Nicosia",
+      "ru": "Никосия"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/cy.svg",
+    "flagEmoji": "🇨🇾"
+  },
+  {
+    "id": "192",
+    "cca2": "CU",
+    "cca3": "CUB",
+    "name": {
+      "en": "Cuba",
+      "ru": "Куба"
+    },
+    "capital": {
+      "en": "Havana",
+      "ru": "Гавана"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/cu.svg",
+    "flagEmoji": "🇨🇺"
+  },
+  {
+    "id": "191",
+    "cca2": "HR",
+    "cca3": "HRV",
+    "name": {
+      "en": "Croatia",
+      "ru": "Хорватия"
+    },
+    "capital": {
+      "en": "Zagreb",
+      "ru": "Загреб"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/hr.svg",
+    "flagEmoji": "🇭🇷"
+  },
+  {
+    "id": "384",
+    "cca2": "CI",
+    "cca3": "CIV",
+    "name": {
+      "en": "Ivory Coast",
+      "ru": "Кот-д’Ивуар"
+    },
+    "capital": {
+      "en": "Yamoussoukro",
+      "ru": "Ямусукро"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/ci.svg",
+    "flagEmoji": "🇨🇮"
+  },
+  {
+    "id": "188",
+    "cca2": "CR",
+    "cca3": "CRI",
+    "name": {
+      "en": "Costa Rica",
+      "ru": "Коста-Рика"
+    },
+    "capital": {
+      "en": "San José",
+      "ru": "Сан-Хосе"
+    },
+    "region": "Americas",
+    "subregion": "Central America",
+    "flagSvg": "https://flagcdn.com/cr.svg",
+    "flagEmoji": "🇨🇷"
+  },
+  {
+    "id": "180",
+    "cca2": "CD",
+    "cca3": "COD",
+    "name": {
+      "en": "DR Congo",
+      "ru": "Демократическая Республика Конго"
+    },
+    "capital": {
+      "en": "Kinshasa",
+      "ru": "Киншаса"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/cd.svg",
+    "flagEmoji": "🇨🇩"
+  },
+  {
+    "id": "178",
+    "cca2": "CG",
+    "cca3": "COG",
+    "name": {
+      "en": "Republic of the Congo",
+      "ru": "Республика Конго"
+    },
+    "capital": {
+      "en": "Brazzaville",
+      "ru": "Браззавиль"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/cg.svg",
+    "flagEmoji": "🇨🇬"
+  },
+  {
+    "id": "174",
+    "cca2": "KM",
+    "cca3": "COM",
+    "name": {
+      "en": "Comoros",
+      "ru": "Коморы"
+    },
+    "capital": {
+      "en": "Moroni",
+      "ru": "Морони"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/km.svg",
+    "flagEmoji": "🇰🇲"
+  },
+  {
+    "id": "170",
+    "cca2": "CO",
+    "cca3": "COL",
+    "name": {
+      "en": "Colombia",
+      "ru": "Колумбия"
+    },
+    "capital": {
+      "en": "Bogotá",
+      "ru": "Богота"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/co.svg",
+    "flagEmoji": "🇨🇴"
+  },
+  {
+    "id": "156",
+    "cca2": "CN",
+    "cca3": "CHN",
+    "name": {
+      "en": "China",
+      "ru": "Китай"
+    },
+    "capital": {
+      "en": "Beijing",
+      "ru": "Пекин"
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/cn.svg",
+    "flagEmoji": "🇨🇳"
+  },
+  {
+    "id": "446",
+    "cca2": "MO",
+    "cca3": "MAC",
+    "name": {
+      "en": "Macau",
+      "ru": "Макао"
+    },
+    "capital": {
+      "en": "",
+      "ru": ""
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/mo.svg",
+    "flagEmoji": "🇲🇴"
+  },
+  {
+    "id": "344",
+    "cca2": "HK",
+    "cca3": "HKG",
+    "name": {
+      "en": "Hong Kong",
+      "ru": "Гонконг"
+    },
+    "capital": {
+      "en": "City of Victoria",
+      "ru": "Гонконг"
+    },
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "flagSvg": "https://flagcdn.com/hk.svg",
+    "flagEmoji": "🇭🇰"
+  },
+  {
+    "id": "152",
+    "cca2": "CL",
+    "cca3": "CHL",
+    "name": {
+      "en": "Chile",
+      "ru": "Чили"
+    },
+    "capital": {
+      "en": "Santiago",
+      "ru": "Сантьяго"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/cl.svg",
+    "flagEmoji": "🇨🇱"
+  },
+  {
+    "id": "148",
+    "cca2": "TD",
+    "cca3": "TCD",
+    "name": {
+      "en": "Chad",
+      "ru": "Чад"
+    },
+    "capital": {
+      "en": "N'Djamena",
+      "ru": "Нджамена"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/td.svg",
+    "flagEmoji": "🇹🇩"
+  },
+  {
+    "id": "140",
+    "cca2": "CF",
+    "cca3": "CAF",
+    "name": {
+      "en": "Central African Republic",
+      "ru": "Центральноафриканская Республика"
+    },
+    "capital": {
+      "en": "Bangui",
+      "ru": "Банги"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/cf.svg",
+    "flagEmoji": "🇨🇫"
+  },
+  {
+    "id": "132",
+    "cca2": "CV",
+    "cca3": "CPV",
+    "name": {
+      "en": "Cape Verde",
+      "ru": "Кабо-Верде"
+    },
+    "capital": {
+      "en": "Praia",
+      "ru": "Прая"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/cv.svg",
+    "flagEmoji": "🇨🇻"
+  },
+  {
+    "id": "124",
+    "cca2": "CA",
+    "cca3": "CAN",
+    "name": {
+      "en": "Canada",
+      "ru": "Канада"
+    },
+    "capital": {
+      "en": "Ottawa",
+      "ru": "Оттава"
+    },
+    "region": "Americas",
+    "subregion": "North America",
+    "flagSvg": "https://flagcdn.com/ca.svg",
+    "flagEmoji": "🇨🇦"
+  },
+  {
+    "id": "120",
+    "cca2": "CM",
+    "cca3": "CMR",
+    "name": {
+      "en": "Cameroon",
+      "ru": "Камерун"
+    },
+    "capital": {
+      "en": "Yaoundé",
+      "ru": "Яунде"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/cm.svg",
+    "flagEmoji": "🇨🇲"
+  },
+  {
+    "id": "116",
+    "cca2": "KH",
+    "cca3": "KHM",
+    "name": {
+      "en": "Cambodia",
+      "ru": "Камбоджа"
+    },
+    "capital": {
+      "en": "Phnom Penh",
+      "ru": "Пномпень"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/kh.svg",
+    "flagEmoji": "🇰🇭"
+  },
+  {
+    "id": "104",
+    "cca2": "MM",
+    "cca3": "MMR",
+    "name": {
+      "en": "Myanmar",
+      "ru": "Мьянма"
+    },
+    "capital": {
+      "en": "Naypyidaw",
+      "ru": "Нейпьидо"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/mm.svg",
+    "flagEmoji": "🇲🇲"
+  },
+  {
+    "id": "108",
+    "cca2": "BI",
+    "cca3": "BDI",
+    "name": {
+      "en": "Burundi",
+      "ru": "Бурунди"
+    },
+    "capital": {
+      "en": "Gitega",
+      "ru": "Гитега"
+    },
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "flagSvg": "https://flagcdn.com/bi.svg",
+    "flagEmoji": "🇧🇮"
+  },
+  {
+    "id": "854",
+    "cca2": "BF",
+    "cca3": "BFA",
+    "name": {
+      "en": "Burkina Faso",
+      "ru": "Буркина-Фасо"
+    },
+    "capital": {
+      "en": "Ouagadougou",
+      "ru": "Уагадугу"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/bf.svg",
+    "flagEmoji": "🇧🇫"
+  },
+  {
+    "id": "100",
+    "cca2": "BG",
+    "cca3": "BGR",
+    "name": {
+      "en": "Bulgaria",
+      "ru": "Болгария"
+    },
+    "capital": {
+      "en": "Sofia",
+      "ru": "София"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/bg.svg",
+    "flagEmoji": "🇧🇬"
+  },
+  {
+    "id": "096",
+    "cca2": "BN",
+    "cca3": "BRN",
+    "name": {
+      "en": "Brunei",
+      "ru": "Бруней"
+    },
+    "capital": {
+      "en": "Bandar Seri Begawan",
+      "ru": "Бандар-Сери-Бегаван"
+    },
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "flagSvg": "https://flagcdn.com/bn.svg",
+    "flagEmoji": "🇧🇳"
+  },
+  {
+    "id": "076",
+    "cca2": "BR",
+    "cca3": "BRA",
+    "name": {
+      "en": "Brazil",
+      "ru": "Бразилия"
+    },
+    "capital": {
+      "en": "Brasília",
+      "ru": "Бразилиа"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/br.svg",
+    "flagEmoji": "🇧🇷"
+  },
+  {
+    "id": "072",
+    "cca2": "BW",
+    "cca3": "BWA",
+    "name": {
+      "en": "Botswana",
+      "ru": "Ботсвана"
+    },
+    "capital": {
+      "en": "Gaborone",
+      "ru": "Габороне"
+    },
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "flagSvg": "https://flagcdn.com/bw.svg",
+    "flagEmoji": "🇧🇼"
+  },
+  {
+    "id": "070",
+    "cca2": "BA",
+    "cca3": "BIH",
+    "name": {
+      "en": "Bosnia and Herzegovina",
+      "ru": "Босния и Герцеговина"
+    },
+    "capital": {
+      "en": "Sarajevo",
+      "ru": "Сараево"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/ba.svg",
+    "flagEmoji": "🇧🇦"
+  },
+  {
+    "id": "068",
+    "cca2": "BO",
+    "cca3": "BOL",
+    "name": {
+      "en": "Bolivia",
+      "ru": "Боливия"
+    },
+    "capital": {
+      "en": "Sucre",
+      "ru": "Сукре"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/bo.svg",
+    "flagEmoji": "🇧🇴"
+  },
+  {
+    "id": "064",
+    "cca2": "BT",
+    "cca3": "BTN",
+    "name": {
+      "en": "Bhutan",
+      "ru": "Бутан"
+    },
+    "capital": {
+      "en": "Thimphu",
+      "ru": "Тхимпху"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/bt.svg",
+    "flagEmoji": "🇧🇹"
+  },
+  {
+    "id": "204",
+    "cca2": "BJ",
+    "cca3": "BEN",
+    "name": {
+      "en": "Benin",
+      "ru": "Бенин"
+    },
+    "capital": {
+      "en": "Porto-Novo",
+      "ru": "Порто-Ново"
+    },
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "flagSvg": "https://flagcdn.com/bj.svg",
+    "flagEmoji": "🇧🇯"
+  },
+  {
+    "id": "084",
+    "cca2": "BZ",
+    "cca3": "BLZ",
+    "name": {
+      "en": "Belize",
+      "ru": "Белиз"
+    },
+    "capital": {
+      "en": "Belmopan",
+      "ru": "Белмопан"
+    },
+    "region": "Americas",
+    "subregion": "Central America",
+    "flagSvg": "https://flagcdn.com/bz.svg",
+    "flagEmoji": "🇧🇿"
+  },
+  {
+    "id": "056",
+    "cca2": "BE",
+    "cca3": "BEL",
+    "name": {
+      "en": "Belgium",
+      "ru": "Бельгия"
+    },
+    "capital": {
+      "en": "Brussels",
+      "ru": "Брюссель"
+    },
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "flagSvg": "https://flagcdn.com/be.svg",
+    "flagEmoji": "🇧🇪"
+  },
+  {
+    "id": "112",
+    "cca2": "BY",
+    "cca3": "BLR",
+    "name": {
+      "en": "Belarus",
+      "ru": "Беларусь"
+    },
+    "capital": {
+      "en": "Minsk",
+      "ru": "Минск"
+    },
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "flagSvg": "https://flagcdn.com/by.svg",
+    "flagEmoji": "🇧🇾"
+  },
+  {
+    "id": "052",
+    "cca2": "BB",
+    "cca3": "BRB",
+    "name": {
+      "en": "Barbados",
+      "ru": "Барбадос"
+    },
+    "capital": {
+      "en": "Bridgetown",
+      "ru": "Бриджтаун"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/bb.svg",
+    "flagEmoji": "🇧🇧"
+  },
+  {
+    "id": "050",
+    "cca2": "BD",
+    "cca3": "BGD",
+    "name": {
+      "en": "Bangladesh",
+      "ru": "Бангладеш"
+    },
+    "capital": {
+      "en": "Dhaka",
+      "ru": "Дакка"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/bd.svg",
+    "flagEmoji": "🇧🇩"
+  },
+  {
+    "id": "048",
+    "cca2": "BH",
+    "cca3": "BHR",
+    "name": {
+      "en": "Bahrain",
+      "ru": "Бахрейн"
+    },
+    "capital": {
+      "en": "Manama",
+      "ru": "Манама"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/bh.svg",
+    "flagEmoji": "🇧🇭"
+  },
+  {
+    "id": "044",
+    "cca2": "BS",
+    "cca3": "BHS",
+    "name": {
+      "en": "Bahamas",
+      "ru": "Багамские Острова"
+    },
+    "capital": {
+      "en": "Nassau",
+      "ru": "Нассау"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/bs.svg",
+    "flagEmoji": "🇧🇸"
+  },
+  {
+    "id": "031",
+    "cca2": "AZ",
+    "cca3": "AZE",
+    "name": {
+      "en": "Azerbaijan",
+      "ru": "Азербайджан"
+    },
+    "capital": {
+      "en": "Baku",
+      "ru": "Баку"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/az.svg",
+    "flagEmoji": "🇦🇿"
+  },
+  {
+    "id": "040",
+    "cca2": "AT",
+    "cca3": "AUT",
+    "name": {
+      "en": "Austria",
+      "ru": "Австрия"
+    },
+    "capital": {
+      "en": "Vienna",
+      "ru": "Вена"
+    },
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "flagSvg": "https://flagcdn.com/at.svg",
+    "flagEmoji": "🇦🇹"
+  },
+  {
+    "id": "036",
+    "cca2": "AU",
+    "cca3": "AUS",
+    "name": {
+      "en": "Australia",
+      "ru": "Австралия"
+    },
+    "capital": {
+      "en": "Canberra",
+      "ru": "Канберра"
+    },
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flagSvg": "https://flagcdn.com/au.svg",
+    "flagEmoji": "🇦🇺"
+  },
+  {
+    "id": "334",
+    "cca2": "HM",
+    "cca3": "HMD",
+    "name": {
+      "en": "Heard Island and McDonald Islands",
+      "ru": "Остров Херд и острова Макдональд"
+    },
+    "capital": {
+      "en": "",
+      "ru": ""
+    },
+    "region": "Antarctic",
+    "subregion": "",
+    "flagSvg": "https://flagcdn.com/hm.svg",
+    "flagEmoji": "🇭🇲"
+  },
+  {
+    "id": "574",
+    "cca2": "NF",
+    "cca3": "NFK",
+    "name": {
+      "en": "Norfolk Island",
+      "ru": "Норфолк"
+    },
+    "capital": {
+      "en": "Kingston",
+      "ru": "Kingston"
+    },
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flagSvg": "https://flagcdn.com/nf.svg",
+    "flagEmoji": "🇳🇫"
+  },
+  {
+    "id": "036",
+    "cca2": "AU",
+    "cca3": "AUS",
+    "name": {
+      "en": "Australia",
+      "ru": "Австралия"
+    },
+    "capital": {
+      "en": "Canberra",
+      "ru": "Канберра"
+    },
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "flagSvg": "https://flagcdn.com/au.svg",
+    "flagEmoji": "🇦🇺"
+  },
+  {
+    "id": "051",
+    "cca2": "AM",
+    "cca3": "ARM",
+    "name": {
+      "en": "Armenia",
+      "ru": "Армения"
+    },
+    "capital": {
+      "en": "Yerevan",
+      "ru": "Ереван"
+    },
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "flagSvg": "https://flagcdn.com/am.svg",
+    "flagEmoji": "🇦🇲"
+  },
+  {
+    "id": "032",
+    "cca2": "AR",
+    "cca3": "ARG",
+    "name": {
+      "en": "Argentina",
+      "ru": "Аргентина"
+    },
+    "capital": {
+      "en": "Buenos Aires",
+      "ru": "Буэнос-Айрес"
+    },
+    "region": "Americas",
+    "subregion": "South America",
+    "flagSvg": "https://flagcdn.com/ar.svg",
+    "flagEmoji": "🇦🇷"
+  },
+  {
+    "id": "028",
+    "cca2": "AG",
+    "cca3": "ATG",
+    "name": {
+      "en": "Antigua and Barbuda",
+      "ru": "Антигуа и Барбуда"
+    },
+    "capital": {
+      "en": "Saint John's",
+      "ru": "Сент-Джонс"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/ag.svg",
+    "flagEmoji": "🇦🇬"
+  },
+  {
+    "id": "024",
+    "cca2": "AO",
+    "cca3": "AGO",
+    "name": {
+      "en": "Angola",
+      "ru": "Ангола"
+    },
+    "capital": {
+      "en": "Luanda",
+      "ru": "Луанда"
+    },
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "flagSvg": "https://flagcdn.com/ao.svg",
+    "flagEmoji": "🇦🇴"
+  },
+  {
+    "id": "020",
+    "cca2": "AD",
+    "cca3": "AND",
+    "name": {
+      "en": "Andorra",
+      "ru": "Андорра"
+    },
+    "capital": {
+      "en": "Andorra la Vella",
+      "ru": "Андорра-ла-Велья"
+    },
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "flagSvg": "https://flagcdn.com/ad.svg",
+    "flagEmoji": "🇦🇩"
+  },
+  {
+    "id": "012",
+    "cca2": "DZ",
+    "cca3": "DZA",
+    "name": {
+      "en": "Algeria",
+      "ru": "Алжир"
+    },
+    "capital": {
+      "en": "Algiers",
+      "ru": "Алжир"
+    },
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "flagSvg": "https://flagcdn.com/dz.svg",
+    "flagEmoji": "🇩🇿"
+  },
+  {
+    "id": "008",
+    "cca2": "AL",
+    "cca3": "ALB",
+    "name": {
+      "en": "Albania",
+      "ru": "Албания"
+    },
+    "capital": {
+      "en": "Tirana",
+      "ru": "Тирана"
+    },
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "flagSvg": "https://flagcdn.com/al.svg",
+    "flagEmoji": "🇦🇱"
+  },
+  {
+    "id": "004",
+    "cca2": "AF",
+    "cca3": "AFG",
+    "name": {
+      "en": "Afghanistan",
+      "ru": "Афганистан"
+    },
+    "capital": {
+      "en": "Kabul",
+      "ru": "Кабул"
+    },
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "flagSvg": "https://flagcdn.com/af.svg",
+    "flagEmoji": "🇦🇫"
+  },
+  {
+    "id": "010",
+    "cca2": "AQ",
+    "cca3": "ATA",
+    "name": {
+      "en": "Antarctica",
+      "ru": "Антарктида"
+    },
+    "capital": {
+      "en": "",
+      "ru": ""
+    },
+    "region": "Antarctic",
+    "subregion": "",
+    "flagSvg": "https://flagcdn.com/aq.svg",
+    "flagEmoji": "🇦🇶"
+  },
+  {
+    "id": "534",
+    "cca2": "SX",
+    "cca3": "SXM",
+    "name": {
+      "en": "Sint Maarten",
+      "ru": "Синт-Мартен"
+    },
+    "capital": {
+      "en": "Philipsburg",
+      "ru": "Филипсбург"
+    },
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "flagSvg": "https://flagcdn.com/sx.svg",
+    "flagEmoji": "🇸🇽"
+  }
+]
