@@ -39,8 +39,9 @@ export interface PreviousResult {
             {{ 'quiz.score' | transloco: { score: progress().score, total: progress().total } }}
           </span>
           @if (!revealed()) {
-            <button class="giveup-btn" (click)="giveUp.emit()"
-                    [title]="'quiz.giveUp' | transloco">?</button>
+            <button class="giveup-btn" (click)="giveUp.emit()">
+              {{ 'quiz.giveUp' | transloco }}
+            </button>
           }
         </div>
       </div>
@@ -106,10 +107,10 @@ export interface PreviousResult {
     }
     .score { font-size: 0.8rem; color: #999; }
     .giveup-btn {
-      width: 26px; height: 26px;
-      font-size: 0.85rem; font-weight: 700; color: #aaa;
-      background: none; border: 1.5px solid #ddd; border-radius: 50%;
-      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      padding: 3px 10px;
+      font-size: 0.78rem; font-weight: 600; color: #999;
+      background: none; border: 1.5px solid #ddd; border-radius: 12px;
+      cursor: pointer; white-space: nowrap;
       transition: all 0.15s ease;
       &:hover { background: #f5f5f5; color: #555; border-color: #aaa; }
     }

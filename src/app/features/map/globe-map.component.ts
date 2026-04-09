@@ -135,6 +135,7 @@ export class GlobeMapComponent implements AfterViewInit, OnDestroy {
     };
 
     const drag = d3.drag<SVGSVGElement, unknown>()
+      .filter(event => event.touches == null || event.touches.length === 1)
       .on('drag', (event) => {
         const [lam, phi] = proj.rotate() as [number, number, number];
         const k = 75 / proj.scale();
@@ -144,6 +145,7 @@ export class GlobeMapComponent implements AfterViewInit, OnDestroy {
 
     const zoom = d3.zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.4, 10])
+      .filter(event => event.touches == null || event.touches.length !== 1)
       .on('zoom', (event) => {
         proj.scale(this.baseRadius * event.transform.k);
         redraw();
