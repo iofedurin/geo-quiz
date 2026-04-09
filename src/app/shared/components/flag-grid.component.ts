@@ -12,7 +12,7 @@ import { Component, input, output, signal } from '@angular/core';
           [disabled]="locked()"
           (click)="pick(code)"
         >
-          <img [src]="'https://flagcdn.com/' + code.toLowerCase() + '.svg'" [alt]="code" />
+          <img [src]="'assets/flags/' + code.toLowerCase() + '.svg'" [alt]="code" />
         </button>
       }
     </div>

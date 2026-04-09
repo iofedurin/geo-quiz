@@ -10,7 +10,7 @@ export interface CountryMeta {
   /** "Europe" | "Africa" | "Asia" | "Americas" | "Oceania" | "Antarctic" */
   region: string;
   subregion: string;
-  /** URL на flagcdn.com, например https://flagcdn.com/de.svg */
+  /** Локальный путь к SVG флагу, например assets/flags/de.svg */
   flagSvg: string;
   flagEmoji: string;
 }

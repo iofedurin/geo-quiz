@@ -15,7 +15,7 @@
  * Обновление: запускать раз в полгода или при изменении данных.
  */
 
-import { writeFileSync, readFileSync } from 'node:fs';
+import { writeFileSync, readFileSync, mkdirSync, existsSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -123,7 +123,7 @@ for (const geom of geometries) {
     },
     region: country.region ?? '',
     subregion: country.subregion ?? '',
-    flagSvg: `https://flagcdn.com/${(country.cca2 ?? '').toLowerCase()}.svg`,
+    flagSvg: `assets/flags/${(country.cca2 ?? '').toLowerCase()}.svg`,
     flagEmoji: country.flag ?? '',
   });
 }
@@ -156,5 +156,31 @@ writeFileSync(
   'utf-8',
 );
 console.log('✓ countries-geo.json — TopoJSON (world-atlas 50m)');
+
+// ─── 6. Загрузка флагов ─────────────────────────────────────────────────────
+const FLAGS_DIR = resolve(ROOT, 'src/assets/flags');
+if (!existsSync(FLAGS_DIR)) mkdirSync(FLAGS_DIR, { recursive: true });
+
+console.log('\n🏳️  Загрузка флагов с flagcdn.com...');
+const flagCodes = [...new Set(meta.map(c => c.cca2.toLowerCase()))];
+let downloaded = 0, skipped = 0, failed = 0;
+
+const BATCH = 20;
+for (let i = 0; i < flagCodes.length; i += BATCH) {
+  await Promise.all(flagCodes.slice(i, i + BATCH).map(async code => {
+    const outPath = resolve(FLAGS_DIR, `${code}.svg`);
+    if (existsSync(outPath)) { skipped++; return; }
+    try {
+      const r = await fetch(`https://flagcdn.com/${code}.svg`);
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      writeFileSync(outPath, await r.text(), 'utf-8');
+      downloaded++;
+    } catch (e) {
+      console.warn(`   ⚠️  ${code}: ${e}`);
+      failed++;
+    }
+  }));
+}
+console.log(`   ✓ Скачано: ${downloaded}, уже было: ${skipped}, ошибок: ${failed}`);
 
 console.log('\n✅ Готово!\n');
